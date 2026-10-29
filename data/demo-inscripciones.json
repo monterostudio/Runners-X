@@ -1,0 +1,17 @@
+[
+  {
+    "fecha": "2026-10-29T23:14:32.191Z",
+    "nombre": "Atleta Demo QA",
+    "documento": "DEMO-0001",
+    "email": "qa@example.com",
+    "telefono": "0000000000",
+    "carrera_id": "10k-speed",
+    "talla": "M",
+    "club": "Demo QA",
+    "contacto_emergencia": "Contacto Demo 000000",
+    "carrera": "Miranda Trail 10K · Demo",
+    "distancia": "10K Speed",
+    "estado": "Pendiente",
+    "id": "demo-insc-f5f8da5d-a77a-4c21-8fef-171a5cece191"
+  }
+]

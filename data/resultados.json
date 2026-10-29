@@ -1,0 +1,101 @@
+[
+    {
+        "posicion": 1,
+        "nombre": "Atleta de demostración 01",
+        "dorsal": "4201",
+        "distancia": "42K Ultra",
+        "categoria": "Élite Masculino",
+        "tiempo": "04:12:35",
+        "ritmo": "6:00 min\/km"
+    },
+    {
+        "posicion": 1,
+        "nombre": "Atleta de demostración 02",
+        "dorsal": "2105",
+        "distancia": "21K Trail",
+        "categoria": "Élite Femenino",
+        "tiempo": "01:54:10",
+        "ritmo": "5:26 min\/km"
+    },
+    {
+        "posicion": 1,
+        "nombre": "Atleta de demostración 03",
+        "dorsal": "1012",
+        "distancia": "10K Speed",
+        "categoria": "General Masculino",
+        "tiempo": "00:46:15",
+        "ritmo": "4:37 min\/km"
+    },
+    {
+        "posicion": 2,
+        "nombre": "Atleta de demostración 04",
+        "dorsal": "4218",
+        "distancia": "42K Ultra",
+        "categoria": "Élite Femenino",
+        "tiempo": "04:29:12",
+        "ritmo": "6:24 min\/km"
+    },
+    {
+        "posicion": 2,
+        "nombre": "Atleta de demostración 05",
+        "dorsal": "2142",
+        "distancia": "21K Trail",
+        "categoria": "Élite Masculino",
+        "tiempo": "01:56:45",
+        "ritmo": "5:33 min\/km"
+    },
+    {
+        "posicion": 2,
+        "nombre": "Atleta de demostración 06",
+        "dorsal": "1048",
+        "distancia": "10K Speed",
+        "categoria": "General Femenino",
+        "tiempo": "00:49:50",
+        "ritmo": "4:59 min\/km"
+    },
+    {
+        "posicion": 3,
+        "nombre": "Atleta de demostración 07",
+        "dorsal": "4209",
+        "distancia": "42K Ultra",
+        "categoria": "Master A Masculino",
+        "tiempo": "04:38:50",
+        "ritmo": "6:38 min\/km"
+    },
+    {
+        "posicion": 3,
+        "nombre": "Atleta de demostración 08",
+        "dorsal": "2119",
+        "distancia": "21K Trail",
+        "categoria": "Master A Femenino",
+        "tiempo": "02:08:20",
+        "ritmo": "6:06 min\/km"
+    },
+    {
+        "posicion": 1,
+        "nombre": "Atleta de demostración 09",
+        "dorsal": "1001",
+        "distancia": "5K Familiar",
+        "categoria": "General",
+        "tiempo": "00:24:18",
+        "ritmo": "4:52 min\/km"
+    },
+    {
+        "posicion": 2,
+        "nombre": "Atleta de demostración 10",
+        "dorsal": "1002",
+        "distancia": "5K Familiar",
+        "categoria": "General",
+        "tiempo": "00:25:41",
+        "ritmo": "5:08 min\/km"
+    },
+    {
+        "posicion": 3,
+        "nombre": "Atleta de demostración 11",
+        "dorsal": "1003",
+        "distancia": "5K Familiar",
+        "categoria": "General",
+        "tiempo": "00:27:05",
+        "ritmo": "5:25 min\/km"
+    }
+]

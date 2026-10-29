@@ -1,0 +1,20 @@
+[
+    {
+        "id": "noticia-apertura-temporada-2026",
+        "titulo": "Demo: apertura de inscripciones para la temporada 2027",
+        "categoria": "Contenido de demostración",
+        "fecha": "2026-10-29",
+        "imagen": "https:\/\/images.unsplash.com\/photo-1452626038306-9aae5e071dd3?auto=format&fit=crop&w=800&q=80",
+        "resumen": "Ejemplo de publicación para presentar las distancias 42K, 21K, 10K y 5K del portal.",
+        "contenido": "Este texto, sus fechas y las carreras asociadas son material ficticio de demostración. Sustitúyelo por información aprobada por el cliente antes de publicar o abrir inscripciones reales."
+    },
+    {
+        "id": "guia-nutricion-hidratacion-ultra",
+        "titulo": "Estrategias de Hidratación y Electrolitos en Alta Montaña",
+        "categoria": "Consejos Técnicos",
+        "fecha": "2026-10-27",
+        "imagen": "https:\/\/images.unsplash.com\/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&q=85",
+        "resumen": "Ejemplo editorial para mostrar cómo publicar recomendaciones y novedades en Runners X.",
+        "contenido": "Artículo ilustrativo de la demo. Las recomendaciones médicas, nutricionales, rutas y datos técnicos deben revisarse y aprobarse por el cliente antes de su publicación."
+    }
+]

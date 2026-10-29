@@ -1,0 +1,50 @@
+[
+  {
+    "id": "hero-atletas",
+    "orden": 1,
+    "etiqueta": "PORTAL DE DEMOSTRACIÓN",
+    "titulo": "VIVE LA MONTAÑA, KILÓMETRO A KILÓMETRO",
+    "descripcion": "Explora una experiencia de carreras de montaña con circuitos, inscripciones y contenido de ejemplo para la presentación de Runners X.",
+    "insignia": "VIDEO EXTERNO DE REFERENCIA",
+    "media_type": "video",
+    "media_url": "https://www.youtube.com/watch?v=eFIEMYs08qU",
+    "primary_label": "Probar inscripción",
+    "primary_action": "registration",
+    "primary_url": "",
+    "show_distances": false,
+    "secondary_label": "Ver Circuitos",
+    "secondary_url": "#carreras"
+  },
+  {
+    "id": "hero-circuitos",
+    "orden": 2,
+    "etiqueta": "CIRCUITOS Y DISTANCIAS",
+    "titulo": "ELIGE TU PRÓXIMO CIRCUITO",
+    "descripcion": "Consulta las distancias, desniveles y fechas de ejemplo; los datos se reemplazarán por los oficiales del cliente.",
+    "insignia": "CARRERAS DE MUESTRA",
+    "media_type": "imagen",
+    "media_url": "https://images.unsplash.com/photo-1551632811-561732d1e306?auto=format&fit=crop&w=1600&q=85",
+    "primary_label": "Ver circuitos",
+    "primary_action": "link",
+    "primary_url": "#carreras",
+    "show_distances": true,
+    "secondary_label": "Ver Clasificaciones",
+    "secondary_url": "/resultados",
+    "secondary_action": "link"
+  },
+  {
+    "id": "hero-comunidad",
+    "orden": 3,
+    "etiqueta": "COMUNIDAD RUNNERS X",
+    "titulo": "UNA EXPERIENCIA HECHA PARA CORRER",
+    "descripcion": "Conoce las secciones de noticias y galería. Las fotografías de esta demo son enlaces de stock, no imágenes de una carrera real.",
+    "insignia": "IMAGEN EXTERNA DE STOCK",
+    "media_type": "imagen",
+    "media_url": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=1600&q=85",
+    "primary_label": "Leer Noticias",
+    "primary_action": "link",
+    "primary_url": "/noticias",
+    "secondary_label": "Ver Fotos",
+    "secondary_url": "/galeria"
+  }
+]

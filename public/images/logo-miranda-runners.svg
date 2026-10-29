@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 72" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">Runners X</title>
+  <path d="M8 62c44-3 89 2 133-1 48-3 86 0 130-2l-8 7c-80 2-172-2-249 3z" fill="#ffd600"/>
+  <text x="12" y="48" textLength="182" lengthAdjust="spacingAndGlyphs" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="43" font-style="italic" font-weight="900" letter-spacing="-2">Runners</text>
+  <text x="210" y="48" fill="#ffea00" font-family="Arial, Helvetica, sans-serif" font-size="43" font-style="italic" font-weight="900" letter-spacing="-2">X</text>
+</svg>

@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "Miranda Ultra Trail 42K · Demo",
+        "distancia": "42K Ultra",
+        "desnivel": "+2,850 m",
+        "altitud_minima": "1,200 msnm",
+        "altitud_maxima": "2,760 msnm",
+        "terreno": "Senderos técnicos, bosque y roca",
+        "apertura": "2026-10-01T00:00:00.000Z",
+        "cierre": "2027-04-30T23:59:00.000Z",
+        "activa": true,
+        "id": "42k-ultra"
+    },
+    {
+        "nombre": "Miranda Trail Medio Maratón · Demo",
+        "distancia": "21K Trail",
+        "desnivel": "+1,150 m",
+        "altitud_minima": "950 msnm",
+        "altitud_maxima": "1,900 msnm",
+        "terreno": "Single track y tramos mixtos",
+        "apertura": "2026-10-01T00:00:00.000Z",
+        "cierre": "2027-04-30T23:59:00.000Z",
+        "activa": true,
+        "id": "21k-trail"
+    },
+    {
+        "nombre": "Miranda Trail 10K · Demo",
+        "distancia": "10K Speed",
+        "desnivel": "+480 m",
+        "altitud_minima": "850 msnm",
+        "altitud_maxima": "1,300 msnm",
+        "terreno": "Senderos rápidos y tramos mixtos",
+        "terreno": "Senderos rápidos y tramos mixtos",
+        "apertura": "2026-10-01T00:00:00.000Z",
+        "cierre": "2027-04-30T23:59:00.000Z",
+        "activa": true,
+        "id": "10k-speed"
+    },
+    {
+        "nombre": "Miranda Familiar 5K · Demo",
+        "distancia": "5K Familiar",
+        "desnivel": "+120 m",
+        "altitud_minima": "850 msnm",
+        "altitud_maxima": "970 msnm",
+        "terreno": "Circuito recreativo y senderos sencillos",
+        "apertura": "2026-10-01T00:00:00.000Z",
+        "cierre": "2027-04-30T23:59:00.000Z",
+        "activa": true,
+        "id": "carrera-d749cee57d0d"
+    }
+]
